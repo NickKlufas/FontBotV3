@@ -1,0 +1,9 @@
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\bin\Debug\FontBotV3.exe.config
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\bin\Debug\FontBotV3.exe
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\bin\Debug\FontBotV3.pdb
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\obj\Debug\FontBotV3.Form1.resources
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\obj\Debug\FontBotV3.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\obj\Debug\FontBotV3.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\obj\Debug\FontBotV3.exe
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\obj\Debug\FontBotV3.pdb
+C:\Users\Nicholas\Desktop\FontBotV3\FontBotV3\obj\Debug\FontBotV3.csprojResolveAssemblyReference.cache
